@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Toni Heittola
 
-<!--
-**toni-heittola/toni-heittola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/toni-heittola?label=Follow&style=social)](https://github.com/toni-heittola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toni-heittola/)
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=toni-heittola&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/toni-heittola/)
+- [Bsky](https://bsky.app/profile/heittolatoni.bsky.social)
+- [Twitter](https://twitter.com/toni_heittola)
+- [Email](mailto:toni.heittola@gmail.com)
